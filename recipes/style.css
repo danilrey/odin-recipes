@@ -1,0 +1,26 @@
+img {
+    height: 400px;
+    weight: auto;
+}
+h1 {
+    color: rgba(165, 42, 42, 0.537);
+    text-align: center;
+}
+ul {
+    font-weight: 400;
+    font-size: 20px;
+}
+ol {
+    font-size: 22px;
+    font-weight: 500;
+    color: darkgreen;
+}
+p.d,div {
+    font-size: 20px;
+    font-family: Garamond;
+    text-align: left;
+}
+div {
+    border: 2px solid goldenrod;
+    display:inline;
+}

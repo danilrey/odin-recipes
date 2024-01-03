@@ -1,0 +1,46 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    
+    
+}
+
+h1 {
+    color: brown;
+    font-size: 60px;
+    text-align: center;
+    font-weight: 800;
+    background-color: blanchedalmond;
+    padding: 50px;
+    margin-bottom: 100px;
+    box-sizing: border-box;
+    border-left: 64px solid brown;
+    border-right: 16px solid brown;
+    border-top: 8px solid brown;
+    border-bottom:8px solid brown ;
+}
+a {
+    font-size: 30px;
+    text-align: center;
+    font-weight: 600;
+    line-height: 3;
+    display: inline-block;
+    width: 700px;
+    height: auto;
+    margin: 20px;
+}
+a.lob {
+    color:lightcoral ;
+    background-color: bisque;
+    border-left: 32px solid lightcoral;
+    border-right: 8px solid lightcoral;
+    border-top: 4px solid lightcoral;
+    border-bottom:4px solid lightcoral ;
+}
+a.las {
+    color: darkolivegreen;
+    background-color:bisque;
+    border-left: 32px solid darkolivegreen;
+    border-right: 8px solid darkolivegreen ;
+    border-top: 4px solid darkolivegreen;
+    border-bottom:4px solid darkolivegreen ;
+}
